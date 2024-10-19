@@ -203,7 +203,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
           </div>
         </div>
       </div>
-            <div class="col-span-4 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -221,7 +221,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
           </div>
         </div>
       </div>
-            <div class="col-span-4 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -240,7 +240,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
 
         </div>
       </div>
-      <div class="col-span-12 xs:col-span-4 sm:col-span-6 md:col-span-8 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -258,7 +258,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
           </div>
         </div>
       </div>
-      <div class="col-span-12 xs:col-span-4 sm:col-span-6 md:col-span-8 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -277,7 +277,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
         </div>
       </div>
       
-      <div class="col-span-12 xs:col-span-4 sm:col-span-6 md:col-span-8 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -296,7 +296,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
 
         </div>
       </div>
-      <div class="col-span-12 xs:col-span-4 sm:col-span-6 md:col-span-8 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -314,7 +314,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
           </div>
         </div>
       </div>
-      <div class="col-span-12 xs:col-span-4 sm:col-span-6 md:col-span-8 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
