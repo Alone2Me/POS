@@ -185,7 +185,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
     </div>
 
     <div class="grid grid-cols-12 gap-4">
-      <div class="col-span-12 xs:col-span-4 sm:col-span-4 md:col-span-4 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-4 xs:col-span-4 sm:col-span-4 md:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
