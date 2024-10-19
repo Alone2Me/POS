@@ -143,7 +143,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
         </div>
         
       </div>
-      <div class="col-span-12 xl:col-span-4">
+      <div class="col-span-12 xl:col-span-4 hidden lg:block">
         <div class="card">
           <div class="font-semibold text-xl mb-4">All Product</div>
           <DataTable
@@ -180,7 +180,6 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
             </Column>
           </DataTable>
         </div>
-        
       </div>
     </div>
 
