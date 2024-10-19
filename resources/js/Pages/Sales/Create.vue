@@ -141,7 +141,6 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
             </Column>
           </DataTable>
         </div>
-        
       </div>
       <div class="col-span-12 xl:col-span-4">
         <div class="card">
@@ -180,16 +179,17 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
             </Column>
           </DataTable>
         </div>
-        
       </div>
     </div>
 
     <div class="grid grid-cols-12 gap-4">
-      <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-12 xs:col-span-3 sm:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
-              <span class="block text-muted-color font-medium  text-center mb-2">Sales</span>
+              <span class="block text-muted-color font-medium text-center mb-2"
+                >Sales</span
+              >
               <div
                 class="flex items-center justify-center bg-red-100 dark:bg-red-400/10 rounded-border"
                 style="width: 5.5rem; height: 4.5rem"
@@ -231,7 +231,6 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
               </div> -->
             </div>
           </div>
-
         </div>
       </div>
       <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
@@ -264,7 +263,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
           </div>
         </div>
       </div>
-      
+
       <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
@@ -281,7 +280,6 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
               </div> -->
             </div>
           </div>
-
         </div>
       </div>
       <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">

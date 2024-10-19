@@ -14,6 +14,7 @@ export default {
     darkMode: ["class", '[class*="app-dark"]'],
     theme: {
         screens: {
+            xs: "475px",
             sm: "576px",
             md: "768px",
             lg: "992px",
