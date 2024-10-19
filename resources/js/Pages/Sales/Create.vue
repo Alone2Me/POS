@@ -185,7 +185,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
     </div>
 
     <div class="grid grid-cols-12 gap-4">
-      <div class="col-span-12 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -196,14 +196,11 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
               >
                 <i class="pi pi-cart-plus text-red-500 !text-2xl"></i>
               </div>
-              <!-- <div class="text-surface-900 dark:text-surface-0 font-medium text-xl">
-                $2.100
-              </div> -->
             </div>
           </div>
         </div>
       </div>
-      <div class="col-span-12 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -214,14 +211,11 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
               >
                 <i class="pi pi-sort-down text-green-500 !text-2xl"></i>
               </div>
-              <!-- <div class="text-surface-900 dark:text-surface-0 font-medium text-xl">
-                $2.100
-              </div> -->
             </div>
           </div>
         </div>
       </div>
-      <div class="col-span-12 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -240,7 +234,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
 
         </div>
       </div>
-      <div class="col-span-12 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -251,14 +245,11 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
               >
                 <i class="pi pi-dollar text-pink-500 !text-2xl"></i>
               </div>
-              <!-- <div class="text-surface-900 dark:text-surface-0 font-medium text-xl">
-                $2.100
-              </div> -->
             </div>
           </div>
         </div>
       </div>
-      <div class="col-span-12 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -269,15 +260,12 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
               >
                 <i class="pi pi-percentage text-indigo-500 !text-2xl"></i>
               </div>
-              <!-- <div class="text-surface-900 dark:text-surface-0 font-medium text-xl">
-                $2.100
-              </div> -->
             </div>
           </div>
         </div>
       </div>
       
-      <div class="col-span-12 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -296,7 +284,7 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
 
         </div>
       </div>
-      <div class="col-span-12 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -307,14 +295,11 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
               >
                 <i class="pi pi-money-bill text-orange-500 !text-2xl"></i>
               </div>
-              <!-- <div class="text-surface-900 dark:text-surface-0 font-medium text-xl">
-                $2.100
-              </div> -->
             </div>
           </div>
         </div>
       </div>
-      <div class="col-span-12 lg:col-span-6 xl:col-span-1">
+      <div class="col-span-12 sm:col-span-4 lg:col-span-6 xl:col-span-1">
         <div class="card mb-0">
           <div class="flex justify-center text-center">
             <div>
@@ -325,9 +310,6 @@ watch([getPrimary, getSurface, isDarkTheme], () => {
               >
                 <i class="pi pi-print text-purple-500 !text-2xl"></i>
               </div>
-              <!-- <div class="text-surface-900 dark:text-surface-0 font-medium text-xl">
-                $2.100
-              </div> -->
             </div>
           </div>
         </div>
